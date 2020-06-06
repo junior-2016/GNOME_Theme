@@ -8,3 +8,5 @@ sudo ./install.sh -g 安装 gdm 主题
 - 下载[McMojave-Circle-icon-theme](https://github.com/vinceliuice/McMojave-circle)安装
 ### 字体
 - 界面字体用 Noto Sans CJK SC Regular
+### 搜狗输入法
+- [优麒麟版本](https://github.com/laomocode/fcitx-sogouimebs/releases)
